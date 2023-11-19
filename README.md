@@ -1,2 +1,1 @@
-# Sistema-de-Hotel
-Começe pela pagina Primaria.html aguarde 5 segundos
+# Atividade do PROA - Sistema de Um Hotel
